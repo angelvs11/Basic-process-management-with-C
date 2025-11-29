@@ -1,0 +1,10 @@
+=== Bienvenido a ProcMan ===
+Comandos disponibles: help, create <cmd> [args], list, kill <pid>, wait, tree, quit
+ProcMan> Created process 6795
+ProcMan> PID	COMMAND		RUNTIME	STATUS
+-----	-------------	--------	----------
+6795	bash -c sleep 5	00:00:01	Running
+ProcMan> Waiting for all child processes...
+Terminated process 6795
+All processes handled.
+ProcMan> Saliendo de ProcMan...

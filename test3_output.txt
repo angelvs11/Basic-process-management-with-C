@@ -1,0 +1,12 @@
+=== Bienvenido a ProcMan ===
+Comandos disponibles: help, create <cmd> [args], list, kill <pid>, wait, tree, quit
+ProcMan> Created process 7136
+ProcMan> Árbol de procesos:
+[7134] procman
+  [7136] bash
+    [7137] sleep
+    [7138] sleep
+ProcMan> Waiting for all child processes...
+Terminated process 7136
+All processes handled.
+ProcMan> Saliendo de ProcMan...

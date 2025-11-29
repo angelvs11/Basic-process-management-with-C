@@ -1,0 +1,7 @@
+=== Bienvenido a ProcMan ===
+Comandos disponibles: help, create <cmd> [args], list, kill <pid>, wait, tree, quit
+ProcMan> Created process 6814
+ProcMan> 
+Shutting down
+Terminated process 6814
+All processes handled.
